@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #595547;
+}
+
+h1, h2 {
+    color: #9fc2f8;
+}
+
+h1 {
+    font-size: 80pt;
+}
+
+strong {
+    color: #29ca31;
+}
